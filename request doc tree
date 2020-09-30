@@ -1,0 +1,12 @@
+<metadata xmlns="http://musicbrainz.org/ns/mmd-2.0#">
+<area id="80c72415-d26a-4f49-b13e-544e50b8c188">
+<name>威神V</name>
+<sort-name>威神V</sort-name>
+<alias-list count=“4”>
+<alias locale="en" sort-name="威神V" type="Area name" type-id="80c72415-d26a-4f49-b13e-544e50b8c188" primary="primary">威神V</alias>
+<alias locale="thai" sort-name="威神V" type="Area name" type-id="80c72415-d26a-4f49-b13e-544e50b8c188" primary="primary">威神V</alias>
+<alias locale="cn" sort-name="威神V" type="Area name" type-id="80c72415-d26a-4f49-b13e-544e50b8c188" primary="primary">威神V</alias>
+<alias locale="en" sort-name="威神V" type="Area name" type-id="80c72415-d26a-4f49-b13e-544e50b8c188" primary="primary">威神V</alias>
+</alias-list>
+</area>
+</metadata>
